@@ -1,0 +1,7 @@
+1. Open https://rozetka.com.ua/
+2. Click "Компьютеры и ноутбуки"
+3. Click "Компьютерные комплектующие"
+4. Click "Процессоры"
+5. Filter "AMD" and "BOX"
+6. Add second item to basket
+7. Check that basket consist item
